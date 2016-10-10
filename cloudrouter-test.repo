@@ -1,0 +1,6 @@
+[cloudrouter_test]
+name=cloudrouter test
+baseurl=https://repo.cloudrouter.org/repo/proving_ground/fedora/24/$basearch/
+enabled=1
+gpgcheck=0
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CLOUDROUTER-PRIMARY
